@@ -8,10 +8,10 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-
-  <img align="center" alt="Rafa-HTML" height="100cm" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Rafa-pic" height="200" style="border-radius:70px;" src="https://i.picasion.com/pic92/983336bd6dabc8fda3a2eb69d2c8c29a.gif">
+  <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-
+  <img align="center" alt="Samuel-HTML" height="100cm" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-
+  <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="right" alt="Samuel-pic" height="200" style="border-radius:70px;" src="https://www.odebate.com.br/wp-content/uploads/2022/02/12022022metaverso.jpg">
 
 </div>
 
