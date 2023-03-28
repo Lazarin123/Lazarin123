@@ -11,7 +11,7 @@
   <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-
   <img align="center" alt="Samuel-HTML" height="100cm" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-
   <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Samuel-pic" height="200" style="border-radius:70px;" src="https://www.odebate.com.br/wp-content/uploads/2022/02/12022022metaverso.jpg">
+    <img align="right" alt="Samuel-pic" height="110" style="border-radius:70px;" src="https://www.odebate.com.br/wp-content/uploads/2022/02/12022022metaverso.jpg">
 
 </div>
 
