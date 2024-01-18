@@ -1,1 +1,19 @@
+### Olá sou o Samuel Lazarin 🤖 
 
+[![instageam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sam_lazarin/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-lazarin-132b4124a/)
+
+![Lazarin123 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazarin123&show_icons=true&theme=gruvbox)
+
+## Tecnologias que uso em meu dia
+
+<div style="display: inline_block"><br/>
+  <img align="centar" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="centar" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="centar" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="centar" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img align="centar" alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+   <img align="centar" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</div> </br>
+
+Apaixonado por tecnologia, estudar e aprender cada dia mais, a programação faz parte da minha vida.
