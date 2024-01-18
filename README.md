@@ -5,6 +5,8 @@
 
 ![Lazarin123 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazarin123&show_icons=true&theme=gruvbox)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazarin123)](https://github.com/Lazarin123/github-readme-stats)
+
 ## Tecnologias que uso em meu dia
 
 <div style="display: inline_block"><br/>
