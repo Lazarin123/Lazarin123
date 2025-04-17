@@ -1,4 +1,6 @@
-### Olá sou o Samuel Lazarin - Ciências da Computação 🤖 
+### Olá sou o Samuel Lazarin - Ciêntista da Computação 🤖 ### 
+
+<img align="right" alt="Samuel-GIF"  height="230" width="230"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhxNDN2OWFiYmMybHc1cjdwYzZva2cxOWMwNWtjYjlhcnE1bzJybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 <a href="https://discord.gg/8ppaJTyN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 [![instageam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sam_lazarin/)
