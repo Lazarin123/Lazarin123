@@ -1,4 +1,4 @@
-### Olá sou o Samuel Lazarin - Ciêntista da Computação 🤖 ### 
+### Olá sou o Samuel Lazarin - Engenheiro de Software 🤖 ### 
 
 <img align="right" alt="Samuel-GIF"  height="230" width="230"  src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e471b8ch9dww0uyovu5n7r11hpqdir5tinx6iz8m25h&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
