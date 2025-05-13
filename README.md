@@ -17,23 +17,24 @@
 <h2>🛠️Tecnologias que utilizo no meu dia a dia:</h2>
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    </div>
+    <img align="center" alt="VS Code" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="JavaScript" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    
+</div>
+    
 <br/>
 
 <h2>👨‍💻Sobre Mim</h2>
 
-Sou um Engenheiro de Software dedicado e proativo, com paixão por construir soluções eficientes e inovadoras. Minha experiência abrange o desenvolvimento de software e a automação de testes, com expertise no uso do Robot Framework.
+<p>Sou um Engenheiro de Software dedicado e proativo, com paixão por construir soluções eficientes e inovadoras. Minha experiência abrange o desenvolvimento de software e a automação de testes, com expertise no uso do Robot Framework.
 
-Busco constantemente aplicar minhas habilidades em programação e gestão de plataformas em ambientes dinâmicos, agregando valor através da automação inteligente, otimização de processos e criação de softwares de alta qualidade.
+Busco constantemente aplicar minhas habilidades em programação e gestão de plataformas em ambientes dinâmicos, agregando valor através da automação inteligente, otimização de processos e criação de softwares de alta qualidade.</p>
 
 <h2>🚀Minha Jornada</h2>
 
-Apaixonado por tecnologia desde cedo, vejo na programação mais que uma profissão: um modo de vida. Acredito na importância do aprendizado contínuo e da evolução constante para me tornar um programador cada vez melhor. Cada desafio é uma oportunidade de crescimento!
+<p>Apaixonado por tecnologia desde cedo, vejo na programação mais que uma profissão: um modo de vida. Acredito na importância do aprendizado contínuo e da evolução constante para me tornar um programador cada vez melhor. Cada desafio é uma oportunidade de crescimento!</p>
 
 ---
