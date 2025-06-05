@@ -21,6 +21,7 @@
     <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
     <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
     <img align="center" alt="Miro" src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white">
+    <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
