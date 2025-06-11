@@ -3,7 +3,7 @@
 <img align="right" alt="Samuel-GIF" height="160" width="160" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e471b8ch9dww0uyovu5n7r11hpqdir5tinx6iz8m25h&ep=v1_gifs_related&rid=giphy.gif&ct=g"></br>
 
 
-<h2>Entre em Contato:</h2>
+<p><bold>Entre em Contato:</bold></p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sam_lazarin/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-lazarin-132b4124a/)
