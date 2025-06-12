@@ -36,7 +36,7 @@
 
 <h2>👨‍💻Sobre Mim</h2>
 
-<p>Sou um Engenheiro de Software dedicado e proativo, com paixão por construir soluções eficientes e inovadoras. Minha experiência abrange o desenvolvimento de software e a automação de testes, com expertise no uso do Robot Framework.
+<p>Sou um Engenheiro de Software dedicado e proativo, com paixão por construir soluções eficientes e inovadoras. Minha experiência abrange o desenvolvimento de software, sistemas e a automação de testes.
 
 Busco constantemente aplicar minhas habilidades em programação e gestão de plataformas em ambientes dinâmicos, agregando valor através da automação inteligente, otimização de processos e criação de softwares de alta qualidade.</p>
 
