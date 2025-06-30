@@ -12,12 +12,6 @@
 
 <br/>
 
-<h2>📊 Estatísticas do GitHub</h2>
-
-[![Lazarin123 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazarin123&show_icons=true&theme=transparent)<br/>
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazarin123&layout=compact&&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2>🛠️Tecnologias que utilizo no meu dia a dia:</h2>
 
 <div style="display: inline_block"><br/>
