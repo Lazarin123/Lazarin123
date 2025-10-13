@@ -1,7 +1,4 @@
-### <h2>Olá! 👋 Eu sou Samuel Lazarin - Engenheiro de Software 🤖</h2> ###
-
-<img align="right" alt="Samuel-GIF" height="160" width="160" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e471b8ch9dww0uyovu5n7r11hpqdir5tinx6iz8m25h&ep=v1_gifs_related&rid=giphy.gif&ct=g"></br>
-
+### <h2>Olá! 👋 Eu sou Samuel Lazarin - Engenheiro de Software e Desenvolvedor FullStack 🤖</h2> ###
 
 <p><bold>Entre em Contato:</bold></p>
 
