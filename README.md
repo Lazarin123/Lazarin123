@@ -1,4 +1,4 @@
-### <h2>Olá! 👋 Eu sou Samuel Lazarin - Engenheiro de Software e Desenvolvedor FullStack 🤖</h2> ###
+### <h2>Olá! 👋 Eu sou Samuel Lazarin - Engenheiro de Software/Desenvolvedor FullStack 🤖</h2> ###
 
 <p><bold>Entre em Contato:</bold></p>
 
