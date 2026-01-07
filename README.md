@@ -16,7 +16,7 @@
 ---
 
 ### 💡 Sobre Mim
-Olá, sou o Samuel Lazarin, um desenvolvedor focado em FullStack. Atualmente estou buscando aprofundar os meus conhecimentos em Desenvolvimento Front-End focando no React.
+Olá, sou o Samuel Lazarin, um desenvolvedor focado em FullStack. Atualmente estou buscando aprofundar os meus conhecimentos em Desenvolvimento Front-End.
 
 * 🎓 Estudando Engenharia de Software.
 * 🚀 Constantemente aprimorando conhecimentos em ecossistemas Java e JavaScript.
