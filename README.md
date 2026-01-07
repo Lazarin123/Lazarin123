@@ -3,6 +3,8 @@
   <h1>Olá, eu sou o Samuel Lazarin! 👋</h1>
   <p><strong>Engenheiro de Software | Desenvolvedor Full Stack</strong></p>
 
+  <h3> 📫 Contatos</h3>
+
   <div>
     <a href="https://www.linkedin.com/in/samuel-lazarin-132b4124a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://wa.me/5511946701625" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -14,7 +16,7 @@
 ---
 
 ### 💡 Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. Atualmente focado em criar soluções robustas e escaláveis, transitando entre o *Front-end* com experiências ricas e o *Back-end* com arquiteturas sólidas.
+Olá, sou o Samuel Lazarin, um desenvolvedor focado em FullStack. Atualmente estou buscando aprofundar os meus conhecimentos em Desenvolvimento Front-End focando no React.
 
 * 🎓 Estudando Engenharia de Software.
 * 🚀 Constantemente aprimorando conhecimentos em ecossistemas Java e JavaScript.
@@ -22,24 +24,25 @@ Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. Atual
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 💻🛠️ Tecnologias e Ferramentas
 
-#### *Linguagens e Frameworks*
+#### 🌐 *Linguagens e Frameworks*
 <div>
+
   <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
 </div>
 
-#### *Frontend & Design*
+#### 🧑‍💻 *Frontend & Design*
 <div>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white">
     <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white">
 </div>
 
-#### *Banco de Dados & Ferramentas*
+#### 💾 *Banco de Dados & Ferramentas*
 <div>
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
   <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -47,9 +50,3 @@ Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. Atual
 </div>
 
 ---
-
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lazarin123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazarin123&layout=compact&langs_count=7&theme=dracula"/>
-</div>
