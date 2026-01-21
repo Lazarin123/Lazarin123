@@ -50,3 +50,12 @@ Olá, sou o Samuel Lazarin, um desenvolvedor focado em FullStack. Atualmente est
 </div>
 
 ---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lazarin123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazarin123&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
