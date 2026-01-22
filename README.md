@@ -15,39 +15,43 @@
 
 ---
 
-### 💡 Sobre Mim
-Olá, sou o Samuel Lazarin, um desenvolvedor focado em FullStack. Atualmente estou buscando aprofundar os meus conhecimentos em Desenvolvimento Front-End.
+### 👨‍💻 Sobre Mim
+- 🎓 Estudante de **Engenharia de Software**.
+- 🚀 Atualmente focado em aprimorar meus conhecimentos em **React**.
+- 💡 Gosto de resolver problemas complexos e criar soluções que facilitem a vida das pessoas. 
+---
 
-* 🎓 Estudando Engenharia de Software.
-* 🚀 Constantemente aprimorando conhecimentos em ecossistemas Java e JavaScript.
-* 🛠️ Gosto de contribuir em projetos que geram impacto real.
+### 💻🛠️ Tecnologias e Ferramentas:
+
+#### 🌐 *Linguagens e Frameworks*
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=java)
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs)
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=react)
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=c)
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=js)
+  
+---
+
+#### 🧑‍💻 *Frontend & Design*
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=figma)
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=css)
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=html)
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=sass)
 
 ---
 
-### 💻🛠️ Tecnologias e Ferramentas
-
-#### 🌐 *Linguagens e Frameworks*
-<div>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
-  <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
-</div>
-
-#### 🧑‍💻 *Frontend & Design*
-<div>
-    <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white">
-    <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white">
-</div>
-
 #### 💾 *Banco de Dados & Ferramentas*
-<div>
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
-</div>
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=mysql)
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=vscode)
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=github)
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=git)
+
+---
+
+### 🧠 Metodologias e Organização
+  ![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=bem&logoColor=white)
+  ![Scrum](https://img.shields.io/badge/Scrum-6236FF?style=for-the-badge&logo=scrumalliance&logoColor=white)
+  ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
