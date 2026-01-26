@@ -24,7 +24,6 @@
 ### 💻🛠️ Tecnologias e Ferramentas:
 
 #### 🌐 *Linguagens e Frameworks*
-  ![Minhas Habilidades](https://skillicons.dev/icons?i=java)
   ![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs)
   ![Minhas Habilidades](https://skillicons.dev/icons?i=react)
   ![Minhas Habilidades](https://skillicons.dev/icons?i=c)
