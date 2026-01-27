@@ -40,6 +40,7 @@
 ---
 
 #### 💾 *Banco de Dados & Ferramentas*
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=vite)
   ![Minhas Habilidades](https://skillicons.dev/icons?i=mysql)
   ![Minhas Habilidades](https://skillicons.dev/icons?i=vscode)
   ![Minhas Habilidades](https://skillicons.dev/icons?i=github)
