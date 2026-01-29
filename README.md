@@ -17,7 +17,7 @@
 
 ### 👨‍💻 Sobre Mim
 - 🎓 Estudante de **Engenharia de Software**.
-- ❓ Pergunte me sobre **Front-End**
+- ❓ Pergunte sobre **Front-End**
 - 🚀 Atualmente focado em aprimorar meus conhecimentos em **React**.
 - 💡 Gosto de resolver problemas complexos e criar soluções que facilitem a vida das pessoas. 
 ---
