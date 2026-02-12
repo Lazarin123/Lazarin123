@@ -2,6 +2,9 @@
   <img height="150" src="https://github.com/Lazarin123.png" style="border-radius: 50%;" />
   <h1>Olá, eu sou o Samuel Lazarin! 👋</h1>
   <p><strong>Engenheiro de Software | Desenvolvedor Full Stack</strong></p>
+  <a href="https://lazarin123.github.io/samuel-portifolio/" target="_blank"></a>
+
+> [Acesse meu portfólio online aqui](https://lazarin123.github.io/samuel-portifolio/)
 
   <h3> 📫 Contatos</h3>
 
