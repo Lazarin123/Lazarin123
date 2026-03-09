@@ -4,7 +4,7 @@
   <p><strong>Engenheiro de Software | Desenvolvedor Full Stack</strong></p>
   <a href="https://lazarin123.github.io/samuel-portifolio/" target="_blank"></a>
 
-> [Acesse meu portfólio online aqui](https://lazarin123.github.io/samuel-portifolio/)
+> [Acesse meu portfólio online aqui](https://samuel-portifolio.vercel.app)
 
   <h3> 📫 Contatos</h3>
 
