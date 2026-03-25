@@ -20,8 +20,8 @@
 
 ### 👨‍💻 Sobre Mim
 - 🎓 Estudante de **Engenharia de Software**.
-- ❓ Pergunte sobre **Front-End**
-- 🚀 Atualmente focado em aprimorar meus conhecimentos em **React**.
+- ❓ Pergunte sobre **Desenvolvimento Web**
+- 🚀 Atualmente focado em aprimorar meus conhecimentos em **React e TypeScript**.
 - 💡 Gosto de resolver problemas complexos e criar soluções que facilitem a vida das pessoas. 
 ---
 
