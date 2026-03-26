@@ -31,7 +31,7 @@
   ![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs)
   ![Minhas Habilidades](https://skillicons.dev/icons?i=react)
   ![Minhas Habilidades](https://skillicons.dev/icons?i=ts)
-  ![Minhas Habilidades](https://skillicons.dev/icons?i=c)
+  ![Minhas Habilidades](https://skillicons.dev/icons?i=cs)
   ![Minhas Habilidades](https://skillicons.dev/icons?i=js)
   
 ---
