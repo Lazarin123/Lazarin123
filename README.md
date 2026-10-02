@@ -21,7 +21,7 @@
 ### 👨‍💻 Sobre Mim
 - 🎓 Estudante de **Engenharia de Software**.
 - ❓ Pergunte sobre **Desenvolvimento Web**
-- 🚀 Atualmente focado em aprimorar meus conhecimentos em **JavaScripr Ecosystem and BackEnd skill**.
+- 🚀 Atualmente focado em aprimorar meus conhecimentos em **JavaScript Ecosystem and BackEnd skill**.
 - 💡 Gosto de resolver problemas complexos e criar soluções que facilitem a vida das pessoas. 
 ---
 
