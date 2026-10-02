@@ -47,6 +47,7 @@
 
 #### 💾 *Banco de Dados & Ferramentas*
   ![Minhas Habilidades](https://skillicons.dev/icons?i=mysql)
+  ![MongoDB](https://skillicons.dev/icons?i=mongodb)
   ![Minhas Habilidades](https://skillicons.dev/icons?i=vscode)
   ![Minhas Habilidades](https://skillicons.dev/icons?i=github)
   ![Minhas Habilidades](https://skillicons.dev/icons?i=git)
